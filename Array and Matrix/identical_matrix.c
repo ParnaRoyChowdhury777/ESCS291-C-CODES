@@ -7,6 +7,11 @@ scanf("%d %d",&r1,&c1);
 printf("Enter the number of rows and columns of the second matrix : \n");
 scanf("%d %d",&r2,&c2);
 
+if(r1!=r2 || c1!=c2)
+printf("The two matrices are not identical!!\n");
+
+else 
+{
 printf("Enter elements in the first matrix : \n");
 for(i=0;i<r1;i++)
 {
@@ -43,11 +48,7 @@ printf("%3d",b[i][j]);
 printf("\n");
 }
 
-if(r1!=r2 || c1!=c2)
-printf("The two matrices are not identical!!\n");
 
-else 
-{
 for(i=0;i<r1;i++)
 {
 for(j=0;j<c1;j++)
