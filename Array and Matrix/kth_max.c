@@ -27,7 +27,7 @@ int main()
         printf("Enter the size of the list: ");
         scanf("%d", &size);
 
-        int arr[size];
+        int arr[100];
         printf("Enter the numbers in the list:\n");
         for (int i = 0; i < size; i++)
         {
