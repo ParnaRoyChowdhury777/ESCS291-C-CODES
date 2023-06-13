@@ -1,5 +1,5 @@
 # ES-CS291_Practice
-Here are some C programs that I need to do for ESCS-291 paper for the 2nd semester in the 1st year curriculum of BTech CSE.
+Here are some C programs that I did for ESCS-291 paper for the 2nd semester in the 1st year curriculum of BTech CSE.
 ## How to Install
 
 1. Create a ```C``` virtual environment. 
