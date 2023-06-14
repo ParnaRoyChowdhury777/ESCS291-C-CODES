@@ -6,8 +6,7 @@ int main() {
   printf("Enter a positive integer: ");
   scanf("%d", &n);
 
-  // 0 and 1 are not prime numbers
-  // change flag to 1 for non-prime number
+  // 0 and 1 are neither prime nor composite....so separately checked!!
   if (n == 0 || n == 1)
   {
     printf("%d is neither a prime number nor a composite number\n",n);
