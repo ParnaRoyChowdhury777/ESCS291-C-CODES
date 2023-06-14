@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 typedef struct
 {
         int num;
@@ -42,7 +43,7 @@ Fraction addFraction(Fraction a, Fraction b)
         c.num = a.num * b.den + a.den * b.num;
         c.den = a.den * b.den;
         return c;
-} // end addFraction
+} // end addFraction function
 
 Fraction subFraction(Fraction a, Fraction b)
 {
@@ -50,18 +51,20 @@ Fraction subFraction(Fraction a, Fraction b)
         c.num = a.num * b.den - a.den * b.num;
         c.den = a.den * b.den;
         return c;
-} // end subFraction
+} // end subFraction function 
+
 Fraction mulFraction(Fraction a, Fraction b)
 {
         Fraction c;
         c.num = a.num * b.num;
         c.den = a.den * b.den;
         return c;
-} // end mulFraction
+} // end mulFraction function 
+
 Fraction divFraction(Fraction a, Fraction b)
 {
         Fraction c;
         c.num = a.num * b.den;
         c.den = a.den * b.num;
         return c;
-} // end divFraction
+} // end divFraction function
