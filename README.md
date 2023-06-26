@@ -26,7 +26,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT License © Parna Roy Chowdhury](https://github.com/ParnaRoyChowdhury777/ESCS291-C-CODES/blob/433ffa9c205b1d87c4a391ef9f6d2c5d8395acd5/License)
+[Apache License © Parna Roy Chowdhury](https://github.com/ParnaRoyChowdhury777/ESCS291-C-CODES/blob/c8fe11258d5daebde2afe6a2579a8bb012edea56/License)
 
 
 ## Where to contact ?
