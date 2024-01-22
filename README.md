@@ -4,7 +4,7 @@ Here are some C programs that I did for the ESCS-291 paper of the 2nd semester i
 ## How to Install
 
 1. Create a ```C``` virtual environment. 
-2. Clone the repo ```git clone https://github.com/ParnaRoyChowdhury777/ESCS291-C-CODES.git``` or download the repository.
+2. Clone the repo : ```git clone https://github.com/ParnaRoyChowdhury777/ESCS291-C-CODES.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd <folder_name> ```.  
 4. Run ``` pip3 install gcc ```.
 5. And now you can run the example scripts or create your own scripts.  
